@@ -24,31 +24,31 @@ ICLR, 2024.
 *X. Li, J. Lu, K. Han, V. A. Prisacariu*\
 CVPR 2024.
 
-**Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models**\
+**[Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models](https://arxiv.org/abs/2312.04410)**\
 *J. Guo, X. Xu, Y. Pu, Z. Ni, C. Wang, M. Vasu, S. Song, G. Huang, H. Shi*\
 CVPR 2024.
 
-**Soda: Bottleneck Diffusion Models for Representation Learning**\
+**[Soda: Bottleneck Diffusion Models for Representation Learning](https://arxiv.org/abs/2311.17901)**\
 *D. A. Hudson, D. Zoran, M. Malinowski, A. K. Lampinen, A. Jaegle, J. L. McClelland, L. Matthey, F. Hill, A. Lerchner*\
 CVPR 2024.
 
-**Masked Diffusion as Self-Supervised Representation Learner**\
+**[Masked Diffusion as Self-Supervised Representation Learner](https://arxiv.org/abs/2308.05695)**\
 *Z. Pan, J. Chen, Y. Shi*\
 arXiv 2024.
 
-**ScribbleGen: Generative Data Augmentation Improves Scribble-Supervised Semantic Segmentation**\
+**[ScribbleGen: Generative Data Augmentation Improves Scribble-Supervised Semantic Segmentation](https://arxiv.org/abs/2311.17121)**\
 *J. Schnell, J. Wang, L. Qi, V. T. Hu, M. Tang*\
 arXiv, 2024.
 
-**Deconstructing Denoising Diffusion Models for Self-Supervised Learning**\
+**[Deconstructing Denoising Diffusion Models for Self-Supervised Learning](https://arxiv.org/abs/2401.14404)**\
 *X. Chen, Z. Liu, S. Xie, K. He*\
 arXiv 2024.
 
-**Can Generative Models Improve Self-Supervised Representation Learning?**\
+**[Can Generative Models Improve Self-Supervised Representation Learning?](https://arxiv.org/abs/2403.05966)**\
 *S. Ayromlou, A. Afkanpour, V. R. Khazaie, F. Forghani*\
 arXiv 2024.
 
-**Unsupervised Semantic Correspondence Using Stable Diffusion**\
+**[Unsupervised Semantic Correspondence Using Stable Diffusion](https://arxiv.org/abs/2305.15581)**\
 *E. Hedlin, G. Sharma, S. Mahajan, H. Isack, A. Kar, A. Tagliasacchi, K. M. Yi*\
 NeurIPS 2023.
 
