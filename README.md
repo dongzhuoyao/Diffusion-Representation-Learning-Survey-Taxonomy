@@ -16,7 +16,7 @@ This survey aims to offer a comprehensive overview of the taxonomy between diffu
 
 ## Diffusion Models for Representation Learning
 
-**ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process**\
+**[ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process](https://arxiv.org/abs/2306.05423)**\
 *C. Tian, C. Tao, J. Dai, H. Li, Z. Li, L. Lu, X. Wang, H. Li, G. Huang, X. Zhu*\
 ICLR, 2024.
 
