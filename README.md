@@ -11,67 +11,7 @@ This survey aims to offer a comprehensive overview of the taxonomy between diffu
 
 # Papers (listed according to year)
 
-## General
-**State of the Art on Diffusion Models for Visual Computing**\
-*R. Po, W. Yifan, V. Golyanik, K. Aberman, J. T. Barron, A. H. Bermano, E. R. Chan, T. Dekel, A. Holynski, A. Kanazawa, C. K. Liu, L. Liu, B. Mildenhall, M. Nießner, B. Ommer, C. Theobalt, P. Wonka, G. Wetzstein*\
-Computer Graphics Forum 2024.
 
-**Diffusion Models in Vision: A Survey**\
-*F. Croitoru, V. Hondru, R. Ionescu, M. Shah*\
-IEEE Transactions on Pattern Analysis & Machine Intelligence, vol. 45, no. 09, 2023.
-
-**Diffusion Models: A Comprehensive Survey of Methods and Applications**\
-*L. Yang, Z. Zhang, Y. Song, S. Hong, R. Xu, Y. Zhao, W. Zhang, B. Cui, M.-H. Yang*\
-ACM Computing Surveys, vol. 56, no. 4, 2023.
-
-**Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs**\
-*K. Zheng, C. Lu, J. Chen, J. Zhu*\
-ICML PMLR 2023.
-
-**On the Design Fundamentals of Diffusion Models: A Survey**\
-*Z. Chang, G. A. Koulieris, H. P. H. Shum*\
-arXiv 2023.
-
-**Understanding Diffusion Models: A Unified Perspective**\
-*C. Luo*\
-arXiv 2022.
-
-**Progressive Distillation for Fast Sampling of Diffusion Models**\
-*T. Salimans, J. Ho*\
-ICLR, 2022.
-
-**High-Resolution Image Synthesis with Latent Diffusion Models**\
-*R. Rombach, A. Blattmann, D. Lorenz, P. Esser, B. Ommer*\
-CVPR, 2022.
-
-**Dynamic Dual-Output Diffusion Models**\
-*Y. Benny, L. Wolf*\
-CVPR 2022.
-
-**Variational Diffusion Models**\
-*D. Kingma, T. Salimans, B. Poole, J. Ho*\
-NeurIPS, vol. 34, 2021.
-
-**A Variational Perspective on Diffusion-Based Generative Models and Score Matching**\
-*C.-W. Huang, J. H. Lim, A. Courville*\
-NeurIPS 2021.
-
-**Score-Based Generative Modeling through Stochastic Differential Equations**\
-*Y. Song, J. Sohl-Dickstein, D. P. Kingma, A. Kumar, S. Ermon, B. Poole*\
-ICLR, 2021.
-
-**Denoising Diffusion Probabilistic Models**\
-*J. Ho, A. Jain, P. Abbeel*\
-NeurIPS 2020.
-
-**Generative Modeling by Estimating Gradients of the Data Distribution**\
-*Y. Song, S. Ermon*\
-NeurIPS, vol. 32, 2019.
-
-
-<!---
-Up until sec 2.2
--->
 
 
 ## Diffusion Models for Representation Learning
@@ -272,6 +212,67 @@ Cover whole Sec 3.2
 -->
 
 
+## General
+**State of the Art on Diffusion Models for Visual Computing**\
+*R. Po, W. Yifan, V. Golyanik, K. Aberman, J. T. Barron, A. H. Bermano, E. R. Chan, T. Dekel, A. Holynski, A. Kanazawa, C. K. Liu, L. Liu, B. Mildenhall, M. Nießner, B. Ommer, C. Theobalt, P. Wonka, G. Wetzstein*\
+Computer Graphics Forum 2024.
+
+**Diffusion Models in Vision: A Survey**\
+*F. Croitoru, V. Hondru, R. Ionescu, M. Shah*\
+IEEE Transactions on Pattern Analysis & Machine Intelligence, vol. 45, no. 09, 2023.
+
+**Diffusion Models: A Comprehensive Survey of Methods and Applications**\
+*L. Yang, Z. Zhang, Y. Song, S. Hong, R. Xu, Y. Zhao, W. Zhang, B. Cui, M.-H. Yang*\
+ACM Computing Surveys, vol. 56, no. 4, 2023.
+
+**Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs**\
+*K. Zheng, C. Lu, J. Chen, J. Zhu*\
+ICML PMLR 2023.
+
+**On the Design Fundamentals of Diffusion Models: A Survey**\
+*Z. Chang, G. A. Koulieris, H. P. H. Shum*\
+arXiv 2023.
+
+**Understanding Diffusion Models: A Unified Perspective**\
+*C. Luo*\
+arXiv 2022.
+
+**Progressive Distillation for Fast Sampling of Diffusion Models**\
+*T. Salimans, J. Ho*\
+ICLR, 2022.
+
+**High-Resolution Image Synthesis with Latent Diffusion Models**\
+*R. Rombach, A. Blattmann, D. Lorenz, P. Esser, B. Ommer*\
+CVPR, 2022.
+
+**Dynamic Dual-Output Diffusion Models**\
+*Y. Benny, L. Wolf*\
+CVPR 2022.
+
+**Variational Diffusion Models**\
+*D. Kingma, T. Salimans, B. Poole, J. Ho*\
+NeurIPS, vol. 34, 2021.
+
+**A Variational Perspective on Diffusion-Based Generative Models and Score Matching**\
+*C.-W. Huang, J. H. Lim, A. Courville*\
+NeurIPS 2021.
+
+**Score-Based Generative Modeling through Stochastic Differential Equations**\
+*Y. Song, J. Sohl-Dickstein, D. P. Kingma, A. Kumar, S. Ermon, B. Poole*\
+ICLR, 2021.
+
+**Denoising Diffusion Probabilistic Models**\
+*J. Ho, A. Jain, P. Abbeel*\
+NeurIPS 2020.
+
+**Generative Modeling by Estimating Gradients of the Data Distribution**\
+*Y. Song, S. Ermon*\
+NeurIPS, vol. 32, 2019.
+
+
+<!---
+Up until sec 2.2
+-->
 
 
 
