@@ -20,7 +20,7 @@ This survey aims to offer a comprehensive overview of the taxonomy between diffu
 *C. Tian, C. Tao, J. Dai, H. Li, Z. Li, L. Lu, X. Wang, H. Li, G. Huang, X. Zhu*\
 ICLR, 2024.
 
-**Sd4match: Learning to prompt stable diffusion model for semantic matching**\
+**[Sd4match: Learning to prompt stable diffusion model for semantic matching](https://arxiv.org/abs/2310.17569)**\
 *X. Li, J. Lu, K. Han, V. A. Prisacariu*\
 CVPR 2024.
 
