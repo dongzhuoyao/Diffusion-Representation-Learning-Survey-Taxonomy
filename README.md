@@ -145,7 +145,12 @@ NeurIPS 2021.
 Cover Tab.2
 -->
 
-## Representation Learning for Diffusion Model Guidance
+## Representation Learning for Diffusion Model 
+
+
+**Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think**\
+*Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang, Jinwoo Shin, Saining Xie*\
+[https://arxiv.org/abs/2410.06940](https://arxiv.org/abs/2410.06940)
 
 **Diffusion Handles Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D**\
 *K. Pandey, P. Guerrero, M. Gadelha, Y. Hold-Geoffroy, K. Singh, N. J. Mitra*\
